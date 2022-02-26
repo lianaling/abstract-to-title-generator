@@ -2,6 +2,8 @@
 _*/
 data
 model*/
+wandb/
+venv/
 
 # HubAPI deployment
 abstract2title/ 
